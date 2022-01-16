@@ -1,0 +1,29 @@
+
+/* /home/klokker/git/sync/calculatorApp/calculator/javase/../common/src/main/css/theme.css */
+/** Define Theme Constants here */
+#Constants {
+    includeNativeBool: true;
+    defaultSourceDPIInt: "0";
+}
+
+display {
+    border: 2px solid #000000;
+    text-align: right;
+    padding: 2mm 2mm 5mm 2mm;
+    font-family: "native:MainThin";
+    font-size: 9.5mm;
+}
+
+Button {
+    border: 1px solid #000000;
+    font-family: "native:MainBold";
+    padding: 5mm 3mm;
+    margin: 0;
+}
+
+Title {
+    color: orange;
+    font-family: "native:MainBold";
+    text-transform: capitalize;
+}
+/* end /home/klokker/git/sync/calculatorApp/calculator/javase/../common/src/main/css/theme.css*/
